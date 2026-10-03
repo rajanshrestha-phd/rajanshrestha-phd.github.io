@@ -308,8 +308,8 @@ footer {
   color: var(--muted);
 }
 .profile-photo {
-  width: 88px;
-  height: 88px;
+  width: 8px;
+  height: 8px;
   border-radius: 50%;
   object-fit: cover;
   margin-bottom: 20px;
