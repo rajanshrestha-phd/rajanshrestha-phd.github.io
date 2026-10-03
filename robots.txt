@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rajanshrestha-phd.github.io/sitemap.xml
