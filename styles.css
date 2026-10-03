@@ -301,3 +301,9 @@ footer {
     gap: 4px;
   }
 }
+.hero-subtitle {
+  margin: -8px 0 18px;
+  font-size: 1.05rem;
+  font-weight: 600;
+  color: var(--muted);
+}
