@@ -218,6 +218,16 @@ h3 { font-size: 1.15rem; }
   font-weight: 650;
 }
 
+.recognition-photo {
+  display: block;
+  width: 100%;
+  max-width: 260px;
+  margin-top: 22px;
+  border-radius: 16px;
+  object-fit: cover;
+  box-shadow: 0 12px 32px rgba(0, 0, 0, .10);
+}
+
 .pub-list {
   border-top: 1px solid var(--border);
   margin-top: 30px;
